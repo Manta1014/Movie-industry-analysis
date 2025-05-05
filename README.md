@@ -71,10 +71,11 @@ By examining variables such as **budget, vote count, score, runtime, genre, and 
 ---
 
 ## 📁 Project Structure
-📦MovieIndustryAnalysis
-┣ 📜CDS230_Final_Group2_Movies.ipynb     # All analyses and models
-┣ 📊CDS230_Group2_FinalPresentationSlides.pdf
-┣ 📄README.md (← You are here)
+MovieIndustryAnalysis/
+├── CDS230_Final_Group2_Movies.ipynb        # All analyses and models
+├── CDS230_Group2_FinalPresentationSlides.pdf
+├── CDS230_Final_Presentation_Script.pdf
+└── README.md    ← You are here
 
 ---
 
